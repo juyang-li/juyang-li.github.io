@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Juyang Li initials placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#edf2f6"/>
+      <stop offset="1" stop-color="#dce6ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" rx="200" fill="url(#bg)"/>
+  <circle cx="200" cy="150" r="66" fill="#b8c6d2"/>
+  <path d="M75 365c13-81 61-123 125-123s112 42 125 123" fill="#b8c6d2"/>
+  <text x="200" y="215" text-anchor="middle" font-family="Georgia,serif" font-size="43" font-weight="bold" fill="#38536b">JL</text>
+</svg>
